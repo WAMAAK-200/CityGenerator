@@ -1,0 +1,665 @@
+{
+    "1": {
+        "id": 1,
+        "pos": [
+            22,
+            62
+        ],
+        "size": [
+            8,
+            4
+        ],
+        "height": 4.25,
+        "district": "Commercial"
+    },
+    "2": {
+        "id": 2,
+        "pos": [
+            32,
+            20
+        ],
+        "size": [
+            8,
+            4
+        ],
+        "height": 4.61,
+        "district": "Commercial"
+    },
+    "3": {
+        "id": 3,
+        "pos": [
+            32,
+            26
+        ],
+        "size": [
+            8,
+            4
+        ],
+        "height": 5.09,
+        "district": "Commercial"
+    },
+    "4": {
+        "id": 4,
+        "pos": [
+            32,
+            32
+        ],
+        "size": [
+            8,
+            4
+        ],
+        "height": 5.07,
+        "district": "Commercial"
+    },
+    "5": {
+        "id": 5,
+        "pos": [
+            32,
+            38
+        ],
+        "size": [
+            8,
+            4
+        ],
+        "height": 4.12,
+        "district": "Commercial"
+    },
+    "6": {
+        "id": 6,
+        "pos": [
+            32,
+            50
+        ],
+        "size": [
+            8,
+            4
+        ],
+        "height": 4.61,
+        "district": "Commercial"
+    },
+    "7": {
+        "id": 7,
+        "pos": [
+            32,
+            62
+        ],
+        "size": [
+            8,
+            4
+        ],
+        "height": 4.1,
+        "district": "Commercial"
+    },
+    "8": {
+        "id": 8,
+        "pos": [
+            32,
+            68
+        ],
+        "size": [
+            8,
+            4
+        ],
+        "height": 5.1,
+        "district": "Commercial"
+    },
+    "9": {
+        "id": 9,
+        "pos": [
+            32,
+            74
+        ],
+        "size": [
+            8,
+            4
+        ],
+        "height": 3.94,
+        "district": "Commercial"
+    },
+    "10": {
+        "id": 10,
+        "pos": [
+            42,
+            20
+        ],
+        "size": [
+            8,
+            4
+        ],
+        "height": 4.47,
+        "district": "Commercial"
+    },
+    "11": {
+        "id": 11,
+        "pos": [
+            42,
+            26
+        ],
+        "size": [
+            8,
+            4
+        ],
+        "height": 6.04,
+        "district": "Commercial"
+    },
+    "12": {
+        "id": 12,
+        "pos": [
+            42,
+            32
+        ],
+        "size": [
+            8,
+            4
+        ],
+        "height": 7.89,
+        "district": "Commercial"
+    },
+    "13": {
+        "id": 13,
+        "pos": [
+            42,
+            38
+        ],
+        "size": [
+            8,
+            4
+        ],
+        "height": 21.52,
+        "district": "Core"
+    },
+    "14": {
+        "id": 14,
+        "pos": [
+            42,
+            44
+        ],
+        "size": [
+            8,
+            4
+        ],
+        "height": 18.21,
+        "district": "Core"
+    },
+    "15": {
+        "id": 15,
+        "pos": [
+            42,
+            50
+        ],
+        "size": [
+            8,
+            4
+        ],
+        "height": 13.69,
+        "district": "Core"
+    },
+    "16": {
+        "id": 16,
+        "pos": [
+            42,
+            56
+        ],
+        "size": [
+            8,
+            4
+        ],
+        "height": 11.87,
+        "district": "Core"
+    },
+    "17": {
+        "id": 17,
+        "pos": [
+            42,
+            62
+        ],
+        "size": [
+            8,
+            4
+        ],
+        "height": 14.31,
+        "district": "Core"
+    },
+    "18": {
+        "id": 18,
+        "pos": [
+            42,
+            68
+        ],
+        "size": [
+            8,
+            4
+        ],
+        "height": 6.04,
+        "district": "Commercial"
+    },
+    "19": {
+        "id": 19,
+        "pos": [
+            42,
+            74
+        ],
+        "size": [
+            8,
+            4
+        ],
+        "height": 5.4,
+        "district": "Commercial"
+    },
+    "20": {
+        "id": 20,
+        "pos": [
+            42,
+            80
+        ],
+        "size": [
+            8,
+            4
+        ],
+        "height": 4.55,
+        "district": "Commercial"
+    },
+    "21": {
+        "id": 21,
+        "pos": [
+            52,
+            20
+        ],
+        "size": [
+            8,
+            4
+        ],
+        "height": 4.61,
+        "district": "Commercial"
+    },
+    "22": {
+        "id": 22,
+        "pos": [
+            52,
+            26
+        ],
+        "size": [
+            8,
+            4
+        ],
+        "height": 4.83,
+        "district": "Commercial"
+    },
+    "23": {
+        "id": 23,
+        "pos": [
+            52,
+            32
+        ],
+        "size": [
+            8,
+            4
+        ],
+        "height": 5.48,
+        "district": "Commercial"
+    },
+    "24": {
+        "id": 24,
+        "pos": [
+            52,
+            38
+        ],
+        "size": [
+            8,
+            4
+        ],
+        "height": 13.25,
+        "district": "Core"
+    },
+    "25": {
+        "id": 25,
+        "pos": [
+            52,
+            44
+        ],
+        "size": [
+            8,
+            4
+        ],
+        "height": 16.4,
+        "district": "Core"
+    },
+    "26": {
+        "id": 26,
+        "pos": [
+            52,
+            50
+        ],
+        "size": [
+            8,
+            4
+        ],
+        "height": 25.5,
+        "district": "Core"
+    },
+    "27": {
+        "id": 27,
+        "pos": [
+            52,
+            56
+        ],
+        "size": [
+            8,
+            4
+        ],
+        "height": 23.87,
+        "district": "Core"
+    },
+    "28": {
+        "id": 28,
+        "pos": [
+            52,
+            62
+        ],
+        "size": [
+            8,
+            4
+        ],
+        "height": 19.1,
+        "district": "Core"
+    },
+    "29": {
+        "id": 29,
+        "pos": [
+            52,
+            68
+        ],
+        "size": [
+            8,
+            4
+        ],
+        "height": 7.85,
+        "district": "Commercial"
+    },
+    "30": {
+        "id": 30,
+        "pos": [
+            52,
+            74
+        ],
+        "size": [
+            8,
+            4
+        ],
+        "height": 4.45,
+        "district": "Commercial"
+    },
+    "31": {
+        "id": 31,
+        "pos": [
+            52,
+            80
+        ],
+        "size": [
+            8,
+            4
+        ],
+        "height": 3.94,
+        "district": "Commercial"
+    },
+    "32": {
+        "id": 32,
+        "pos": [
+            52,
+            86
+        ],
+        "size": [
+            8,
+            4
+        ],
+        "height": 3.91,
+        "district": "Residential"
+    },
+    "33": {
+        "id": 33,
+        "pos": [
+            62,
+            26
+        ],
+        "size": [
+            8,
+            4
+        ],
+        "height": 4.09,
+        "district": "Commercial"
+    },
+    "34": {
+        "id": 34,
+        "pos": [
+            62,
+            32
+        ],
+        "size": [
+            8,
+            4
+        ],
+        "height": 4.86,
+        "district": "Commercial"
+    },
+    "35": {
+        "id": 35,
+        "pos": [
+            62,
+            38
+        ],
+        "size": [
+            8,
+            4
+        ],
+        "height": 5.29,
+        "district": "Commercial"
+    },
+    "36": {
+        "id": 36,
+        "pos": [
+            62,
+            44
+        ],
+        "size": [
+            8,
+            4
+        ],
+        "height": 16.67,
+        "district": "Core"
+    },
+    "37": {
+        "id": 37,
+        "pos": [
+            62,
+            50
+        ],
+        "size": [
+            8,
+            4
+        ],
+        "height": 19.59,
+        "district": "Core"
+    },
+    "38": {
+        "id": 38,
+        "pos": [
+            62,
+            56
+        ],
+        "size": [
+            8,
+            4
+        ],
+        "height": 19.29,
+        "district": "Core"
+    },
+    "39": {
+        "id": 39,
+        "pos": [
+            62,
+            62
+        ],
+        "size": [
+            8,
+            4
+        ],
+        "height": 6.98,
+        "district": "Commercial"
+    },
+    "40": {
+        "id": 40,
+        "pos": [
+            62,
+            68
+        ],
+        "size": [
+            8,
+            4
+        ],
+        "height": 6.62,
+        "district": "Commercial"
+    },
+    "41": {
+        "id": 41,
+        "pos": [
+            62,
+            74
+        ],
+        "size": [
+            8,
+            4
+        ],
+        "height": 5.24,
+        "district": "Commercial"
+    },
+    "42": {
+        "id": 42,
+        "pos": [
+            62,
+            80
+        ],
+        "size": [
+            8,
+            4
+        ],
+        "height": 4.41,
+        "district": "Commercial"
+    },
+    "43": {
+        "id": 43,
+        "pos": [
+            72,
+            26
+        ],
+        "size": [
+            8,
+            4
+        ],
+        "height": 4.24,
+        "district": "Commercial"
+    },
+    "44": {
+        "id": 44,
+        "pos": [
+            72,
+            32
+        ],
+        "size": [
+            8,
+            4
+        ],
+        "height": 5.04,
+        "district": "Commercial"
+    },
+    "45": {
+        "id": 45,
+        "pos": [
+            72,
+            38
+        ],
+        "size": [
+            8,
+            4
+        ],
+        "height": 5.51,
+        "district": "Commercial"
+    },
+    "46": {
+        "id": 46,
+        "pos": [
+            72,
+            44
+        ],
+        "size": [
+            8,
+            4
+        ],
+        "height": 5.68,
+        "district": "Commercial"
+    },
+    "47": {
+        "id": 47,
+        "pos": [
+            72,
+            50
+        ],
+        "size": [
+            8,
+            4
+        ],
+        "height": 6.22,
+        "district": "Commercial"
+    },
+    "48": {
+        "id": 48,
+        "pos": [
+            72,
+            56
+        ],
+        "size": [
+            8,
+            4
+        ],
+        "height": 5.22,
+        "district": "Commercial"
+    },
+    "49": {
+        "id": 49,
+        "pos": [
+            72,
+            62
+        ],
+        "size": [
+            8,
+            4
+        ],
+        "height": 4.48,
+        "district": "Commercial"
+    },
+    "50": {
+        "id": 50,
+        "pos": [
+            82,
+            38
+        ],
+        "size": [
+            8,
+            4
+        ],
+        "height": 3.96,
+        "district": "Commercial"
+    },
+    "51": {
+        "id": 51,
+        "pos": [
+            82,
+            50
+        ],
+        "size": [
+            8,
+            4
+        ],
+        "height": 4.3,
+        "district": "Commercial"
+    }
+}
