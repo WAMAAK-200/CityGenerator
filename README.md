@@ -12,6 +12,8 @@ What motivated this project were the following:
 ## Structure
 All the files needed to run the program are located in the src folder. Folders dprc1, dprc2, dprc3 refer to deprecated folders that include previous attempts at crafting the program itself that are no longer in used but may be used in future maintenace of the program.
 
+This project overwhelmingly uses Python but uses C# for Unity integration and GDScript for Godot integration.
+
 ## How to run
 
 Run the CityGenerator.py file for the main city generation functionalities. Adjust the generation settings to what you desire then generate the city. You should then see an image of that city pop up afterwards with some statistics.
