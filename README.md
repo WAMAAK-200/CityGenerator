@@ -10,7 +10,7 @@ What motivated this project were the following:
 3. The initial idea of using fractals for generation was proposed by Warith, who was inspired by the fractal structure of precolonial Benin City which heavily utilised fractals for its structure, as well as the overall concept of a fractal city being rather efficient due to its overall structure.
 
 ## Structure
-All the files needed to run the program are located in the src folder. Folders dprc1, dprc2, dprc3 refer to deprecated folders that include previous attempts at crafting the program itself that are no longer in used but may be used 
+All the files needed to run the program are located in the src folder. Folders dprc1, dprc2, dprc3 refer to deprecated folders that include previous attempts at crafting the program itself that are no longer in used but may be used in future maintenace of the program.
 
 ## How to run
 
